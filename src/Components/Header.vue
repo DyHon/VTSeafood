@@ -4,7 +4,6 @@
       <div class="dropdown d-xl-none d-lg-none mr-auto">
         <img src="https://png.icons8.com/windows/32/000000/menu.png" data-toggle="dropdown" data-target="#navd" aria-haspopup="true" aria-expanded="false">
         <div class="dropdown-menu hb" aria-labelledby="navd">
-          <router-link class="dropdown-item" to="/">Trang chủ</router-link>
           <router-link class="dropdown-item" to="/products">Sản phẩm</router-link>
           <router-link class="dropdown-item" to="/contact">Liên hệ</router-link>
           <router-link class="dropdown-item" to="/">VT SEAFOOD</router-link>
@@ -16,7 +15,6 @@
       </a>
       <!--Header navigation-->
       <span class="navbar-item bc d-none d-xl-block d-lg-block py-0">
-        <router-link class="pl-5" to="/">Trang chủ</router-link>
         <router-link class="px-5" to="/products">Sản phẩm</router-link>
         <router-link to="/contact">Liên hệ</router-link>
         <router-link class="company-name" to="/">VT SEAFOOD</router-link>
